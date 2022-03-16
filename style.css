@@ -1,9 +1,8 @@
 a {
   color: green;
 }
-<body>, <main>{
- flex-direction: column;
- display: flex;
+<body>{flex-direction: column;}
+<main>{display: flex;}
+<aside>{flex: 1
 }
-<aside>,<article> {flex: 1;flex: 3
-}
+<article> {flex: 3}
