@@ -5,18 +5,14 @@
 a {
   color: red;
 }
-body{flex-dire}body
-{
-    background-color:yellow;
-}
+body{flex-dire}
+aside{background-color:black;}
+body
+{background-color:yellow;}
 h1
-{
-    background-color:#00ff00;
-}
+{background-color:#00ff00;}
 p
-{
-    background-color:rgb(255,0,255);
-}
+{background-color:rgb(255,0,255);}
 main{
 display: flex
 }
