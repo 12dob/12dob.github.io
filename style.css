@@ -5,8 +5,9 @@
 a {
   color: green;
 }
-body{
-flex-direction: column
+body{flex-dire}body
+{ 
+    background: #00ff00 url('smiley.gif') no-repeat fixed center; 
 }
 main{
 display: flex
