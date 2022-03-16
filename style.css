@@ -24,7 +24,7 @@ heaedr {
 }
 aside {
   justify-content: flex-start;
-  flex : 1;
+  flex : 3;
   align-items: center
  
 }
