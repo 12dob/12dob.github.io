@@ -1,3 +1,9 @@
 a {
   color: green;
 }
+<body>, <main>{
+ flex-direction: column;
+ display: flex;
+}
+<aside>,<article> {flex: 1;flex: 3
+}
