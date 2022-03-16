@@ -1,8 +1,22 @@
 a {
   color: green;
 }
-<body>{flex-direction: column;}
-<main>{display: flex;}
-<aside>{flex: 1
+body{
+display: flex
 }
-<article> {flex: 3}
+main{
+display: flex
+}
+heaedr { 
+  justify-content: flex-start;          
+}
+aside {
+  justify-content: flex-start;
+  flex : 1;
+  align-items: center
+}
+article{
+  justify-content: center;
+  flex:3;
+  align-items: center
+      }
