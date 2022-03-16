@@ -20,3 +20,8 @@ article{
   flex:3;
   align-items: center
       }
+footer {
+  justify-content: flex-start;
+  align-items: flex-end
+}
+
